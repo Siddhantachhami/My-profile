@@ -13,13 +13,13 @@ Payment Integrations: eSewa, Khalti, Stripe.
 Other Skills: Problem-solving, modular exports, RESTful APIs, and role-based access control.
 📚 Education:
 
-Bachelor’s in Software Engineering from Chandigarh University, graduated in 2023.
+Bachelor’s in Software Engineering from Chandigarh University graduated in 2023.
 🌟 Notable Achievements:
 
 Developed a POS billing SaaS at Exodus Digital using PostgreSQL, Express.js, and React.js.
 Delivered projects with JWT authentication, WebSocket implementation, and complex database designs.
 🎮 Hobbies:
-In my free time, I enjoy watching movies, playing video games, and experimenting in the kitchen.
+I enjoy watching movies, playing video games, and experimenting in the kitchen in my free time.
 
 Let’s connect and create something awesome! 🚀
 📫 Contact: Feel free to reach out via LinkedIn or check out my repositories here on GitHub.
